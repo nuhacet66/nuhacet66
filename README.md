@@ -47,8 +47,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/es)
-[![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://es.reactjs.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com)
 
 [![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=iterm2&logoColor=ffffff)](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
