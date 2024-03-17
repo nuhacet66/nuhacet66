@@ -35,27 +35,27 @@
 </td>
 <td>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)](https://html.spec.whatwg.org/multipage/)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=blue)](https://www.w3.org/TR/CSS/#css)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://www.w3.org/TR/CSS/#css)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)](https://www.php.net/)
 
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=orange)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://www.mysql.com/)
-[![Kitlon](https://img.shields.io/badge/-kotlin-black?style=flat&logo=kotlin)](https://developer.android.com/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
+[![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=orange)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)](https://developer.android.com/)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/es)
-[![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://es.reactjs.org/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/es)
+[![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://es.reactjs.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com)
 
+[![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=iterm2&logoColor=ffffff)](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
+[![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel&)](https://laravel.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jquery&logoColor=0769ad)](https://jquery.com/)
 
-[![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat&logo=iterm2&logoColor=ffffff)](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/)
-[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&)](https://laravel.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)](https://getbootstrap.com/)
-[![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat&logo=jquery&logoColor=0769ad)](https://jquery.com/)
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro&logoColor=white)
