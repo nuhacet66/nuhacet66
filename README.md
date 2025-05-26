@@ -30,17 +30,17 @@
 ## 🧠 Projects in Organizations
 
 ### 🥽 [Virtual Reality](https://github.com/DartsUnityIG)
-- Implementación de experiencias inmersivas en Unity para simulaciones educativas y juegos de precisión con físicas realistas.
+- Development of immersive experiences in Unity for educational simulations and realistic physics-based precision games.
 
 ### 📱 [Native Mobile Applications](https://github.com/Your-News-On-Time)
-- Desarrollo de apps Android con **Kotlin y Jetpack Compose**.  
-- En proceso de migración a iOS con **Swift** y **SwiftUI** para lograr compatibilidad multiplataforma.
+- Android app built with **Kotlin** and **Jetpack Compose**.  
+- Currently migrating to iOS using **Swift** and **SwiftUI** for a cross-platform solution.
 
 ### ✅ [Task Management Platforms](https://github.com/CompuNotes)
-- Herramienta web para **organización de tareas**, toma de apuntes y planificación académica, adaptable a equipos de trabajo y estudiantes.
+- Custom web tool for **task planning, note-taking, and academic organization**, adaptable to team collaboration and student use.
 
 ### ⏱️ [Work Time Control](https://github.com/PS-G1-Lab)
-- Aplicación para **registro de horas de trabajo**, gestión de jornadas laborales y visualización de rendimiento individual y por equipo.
+- Application for **tracking work hours**, managing shifts, and visualizing team or individual performance through dashboards.
 
 ---
 
