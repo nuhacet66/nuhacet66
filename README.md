@@ -23,7 +23,7 @@
 ## 🧑‍💻 About Me
 
 🎓 **Full Stack Web Development Technician** ([IES EL RINCÓN]())  
-💻 **Computer Engineering** at [ULPGC](https://www.ulpgc.es/)
+💻 **Computer Engineering** [ULPGC](https://www.ulpgc.es/)
 
 ---
 
